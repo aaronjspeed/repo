@@ -1,0 +1,27 @@
+Package: com.aaronjspeed.myadditionalicons
+Name: My Additional Icons for Miso
+Version: 1.0
+Architecture: iphoneos-arm
+Description: I like the Miso theme from Packix, but it doesn't have all of my apps. These are my personally created apps, attempting to follow the Miso color suite.
+Maintainer: aaronjspeed <aaronjspeed@gmail.com>
+Author: aaronjspeed <aaronjspeed@gmail.com>
+Filename: debs//com.aaronjspeed.myadditionalicons.deb
+Section: Themes
+Size: 240448
+MD5sum: 29eddc0c69bc9cb0a66f853e6d2d477d
+SHA1: 7041ab29435fd8350bef549351b8d1aa9e4d3520
+SHA256: 2bb22b1c2b66a005873bc8927865fcae0e9258d1d89480d3f84b0a55ad7b315b
+
+Package: com.aaronjspeed.lotusextra
+Name: Lotus Extra
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Made some extra icons for Lotus Dark. Only a few, as they are apps I use.
+Maintainer: aaronjspeed <aaronjspeed@gmail.com>
+Author: aaronjspeed <aaronjspeed@gmail.com>
+Filename: debs//com.aaronjspeed.lotusextra.deb
+Section: Themes
+Size: 532258
+MD5sum: cd97ebba67c233004205238cc7b65525
+SHA1: 6ae4dee8ace3de0ba1dcf68482034ab726e52984
+SHA256: 570bdf1cbb9ee1caba051412e88445b380b7ad2f764bd7b51c99545ce491b00b

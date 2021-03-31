@@ -5,4 +5,5 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: AJ Speed's Repo
+Description: AJ Speed's Cydia Repository
+MD5Sum:
