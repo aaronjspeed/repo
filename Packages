@@ -1,28 +1,27 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.aaronjspeed.myadditionalicons
+Name: My Additional Icons for Miso
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Description: I like the Miso theme from Packix, but it doesn't have all of my apps. These are my personally created apps, attempting to follow the Miso color suite.
+Maintainer: aaronjspeed <aaronjspeed@gmail.com>
+Author: aaronjspeed <aaronjspeed@gmail.com>
+Filename: debs//com.aaronjspeed.myadditionalicons.deb
+Section: Themes
+Size: 240448
+MD5sum: 29eddc0c69bc9cb0a66f853e6d2d477d
+SHA1: 7041ab29435fd8350bef549351b8d1aa9e4d3520
+SHA256: 2bb22b1c2b66a005873bc8927865fcae0e9258d1d89480d3f84b0a55ad7b315b
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: com.aaronjspeed.lotusextra
+Name: Lotus Extra
+Version: 1.1
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
+Description: Made some extra icons for Lotus Dark. Only a few, as they are apps I use.
+Maintainer: aaronjspeed <aaronjspeed@gmail.com>
+Author: aaronjspeed <aaronjspeed@gmail.com>
+Filename: debs//com.aaronjspeed.lotusextra.deb
+Section: Themes
+Size: 532258
+MD5sum: cd97ebba67c233004205238cc7b65525
+SHA1: 6ae4dee8ace3de0ba1dcf68482034ab726e52984
+SHA256: 570bdf1cbb9ee1caba051412e88445b380b7ad2f764bd7b51c99545ce491b00b
